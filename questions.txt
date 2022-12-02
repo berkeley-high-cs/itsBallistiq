@@ -1,0 +1,6 @@
+is it a pet animal?
+is it a pet animal?
+cat
+dolphin
+fish
+alligator
